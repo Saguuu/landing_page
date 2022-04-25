@@ -180,3 +180,11 @@
     color:#F9FAF8;
     padding: 10px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #ffffff; 
+    padding: 40px;
+}
