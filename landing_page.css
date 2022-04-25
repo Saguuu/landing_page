@@ -150,3 +150,33 @@
     font-weight: bold;
     text-align: right;
 }
+
+.call-to-action {
+    background-color: #3882F6;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    border-color: none;
+    margin: 50px 200px;
+    color:#F9FAF8;
+}
+
+.call-to-action-item {
+    display: flex;
+    padding: 50px;
+    gap: 250px;
+}
+
+.call-to-action-item p {
+    opacity: .7;
+}
+
+.call-to-action-button {
+    text-align: center;
+    width: 100px;
+    border: 2px solid #F9FAF8;
+    background-color: #3882F6;
+    border-radius: 5px;
+    color:#F9FAF8;
+    padding: 10px;
+}
