@@ -154,6 +154,7 @@
 .call-to-action {
     background-color: #3882F6;
     display: flex;
+    justify-content: space-between;
     align-items: center;
     border-radius: 5px;
     border-color: none;
@@ -174,6 +175,7 @@
 .call-to-action-button {
     text-align: center;
     width: 100px;
+    margin-right: 5vw;
     border: 2px solid #F9FAF8;
     background-color: #3882F6;
     border-radius: 5px;
